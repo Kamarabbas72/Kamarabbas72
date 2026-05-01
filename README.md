@@ -13,6 +13,7 @@ Odoo solutions across versions 12 through 17. Based in Ahmedabad, India.
 - [Invoice Payment Reminder](https://github.com/Kamarabbas72/invoice-payment-reminder-odoo17) — Automated 3-level overdue invoice reminders with daily cron and chatter logging
 - [Sales Order Approval Workflow](https://github.com/Kamarabbas72/sales-approval-workflow-odoo17) — Multi-level approval with role-based access, wizard, and email notifications
 - [HR Leave Extended](https://github.com/Kamarabbas72/hr-leave-extended-odoo17) — Computed approval levels, weekly manager digest, QWeb PDF report
+- [School Management System](https://github.com/Kamarabbas72/odoo-school-management) — Student, teacher, course and enrollment management with access rights and QWeb reports
 
 ## 📫 Contact
 - Email: fardeenbukhari313@gmail.com
