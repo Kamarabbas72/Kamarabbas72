@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Kamarabbas Bukhari 👋
 
-<!--
-**Kamarabbas72/Kamarabbas72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Odoo ERP Developer with 3+ years of experience building and customizing 
+Odoo solutions across versions 12 through 17. Based in Ahmedabad, India.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Odoo:** ORM · QWeb · Workflows · v12–v17
+- **Languages:** Python · JavaScript · SQL · XML
+- **Database:** PostgreSQL · MySQL
+- **Tools:** Git · Linux · Docker · VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 Open Source Odoo 17 Modules
+- [Invoice Payment Reminder](https://github.com/Kamarabbas72/invoice-payment-reminder-odoo17) — Automated 3-level overdue invoice reminders with daily cron and chatter logging
+- [Sales Order Approval Workflow](https://github.com/Kamarabbas72/sales-approval-workflow-odoo17) — Multi-level approval with role-based access, wizard, and email notifications
+- [HR Leave Extended](https://github.com/Kamarabbas72/hr-leave-extended-odoo17) — Computed approval levels, weekly manager digest, QWeb PDF report
+
+## 📫 Contact
+- Email: fardeenbukhari313@gmail.com
+- LinkedIn: [kamarabbas-bukhari](https://linkedin.com/in/kamarabbas-bukhari-2522981b1)
